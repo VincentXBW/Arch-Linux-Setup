@@ -4,6 +4,8 @@ This document describes my personal **Arch Linux installation workflow**.
 I use the **archinstall script** with the *minimal* profile, starting from Wi-Fi setup and disk formatting.  
 My main environment is **Hyprland** (JaKoolit’s rice), with **KDE Plasma** as a backup desktop environment.
 
+Im going to install **Gentoo** later but for now, this is fine
+
 ---
 
 ## 🌐 Connect to Wi-Fi (Arch ISO)
